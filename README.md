@@ -24,22 +24,19 @@ Kết nối với wifi tên"FPT Wifi 6"
 Chọn mạng mục tiêu để bắt đầu Deauth trong khung "Chọn mạng" sau khi chọn xong thì bấm vào "Bắt Đầu Tấn Công Deauth"
 
 
-
-
 Sau khi bấm vào "Bắt Đầu Tấn Công Deauth" bạn sẽ được chuyển đến trang theo dõi tấn công deauth
-
-
 
 
 Important
 
 ĐOẠN MÃ CÓ THỂ KHÔNG ĐÚNG NHƯ BẠN MONG MUỐN
-Đoạn mã không giống với phần mô tả, hoặc không hoạt động được bạn hãy liên hệ với người chỉnh sửa để có bản Vietsub và Thuần Việt do bản quyền bị hạn chế nên không thể trực tiếp đăng tải trên Github công khai được, mong bạn thông cảm và liên hệ qua đường link sau : https://m.me/Namnobi.nobita
+Đoạn mã không giống với phần mô tả, hoặc không hoạt động được bạn hãy liên hệ với người chỉnh sửa để có bản Vietsub và Thuần Việt do bản quyền bị hạn chế nên không thể trực tiếp đăng tải trên Github công khai được, mong bạn thông cảm và liên hệ qua đường link sau : Zalo: 0812.40.9939
 
 HOẶC BẠN CÓ THỂ MUA SẢN PHẨM ĐÃ ĐƯỢC HOÀN THIỆN Ở ĐƯỜNG LINK SAU :
 Sản phẩm nay mang lại độ hoàn thiện của đoạn code trên mang lại sự mạnh mẽ trong việc deauther các mục tiêu, và thêm tính năng ẩn tên wifi theo yêu cầu giúp người khác không thể nhận ra là có thiết bị đang deauther ở gần !
 
 Link mua tại Shopee https://s.shopee.vn/9Up6euq6bK
+
 Link mua tại Tiktok https://vt.tiktok.com/ZSht668PU
 
 
