@@ -10,7 +10,7 @@ Bạn tiến hành Nạp Code bằng nút mũi tên ➡️ góc trái màn hình
 Chờ nạp chương trình hoàn tất và hiện dòng Upload Image done là bạn đã hoàn thành việc nạp trương trình cho mạch RTL8720DN
 
 Trên thiết bị di động(Điện Thoại)
-Bạn kết nối đến wifi có tên SSID "FPT Wifi 6", Mật khẩu : "12345678@"
+Bạn kết nối đến wifi có tên SSID "FPT Wifi 6" Password : "12345678@"
 Sau khi kết nối bạn tiến hành truy cập địa chỉ bằng 1 trình duyệt bất kỳ (mình đề xuất ở đây là Chrome) với địa chỉ sau : "192.168.1.1"
 Sau khi kết nối hệ thống sẽ hiện cho bạn 1 trang Web để thao tác và sử dụng trên giao diện này, tất cả điều là tiếng Việt bạn hãy thao tác như những gì trên đó hiện thị !
 Tip
